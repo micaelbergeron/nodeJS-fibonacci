@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS test (
+    id INT(10) AUTO_INCREMENT,
+    ip VARCHAR(15),
+    createdDate DATETIME,
+    PRIMARY KEY(id)
+);

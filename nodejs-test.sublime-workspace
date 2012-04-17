@@ -1,0 +1,462 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fib_",
+				"fib_base"
+			],
+			[
+				"clear",
+				"clearTimeout();"
+			],
+			[
+				"set",
+				"setTimeout();"
+			],
+			[
+				"quer",
+				"querystring.parse(qs, sep, eq);"
+			],
+			[
+				"fibbo",
+				"fibbonnaci"
+			],
+			[
+				"ip",
+				"ip_address"
+			],
+			[
+				"que",
+				"querystring.parse(qs, sep, eq);"
+			],
+			[
+				"TEST_",
+				"TEST_TABLE"
+			],
+			[
+				"readF",
+				"fs.readFile(path, encoding_);"
+			],
+			[
+				"cons",
+				"console.log();"
+			],
+			[
+				"create",
+				"net.createServer();"
+			],
+			[
+				"co",
+				"co	Wait n seconds."
+			],
+			[
+				"uni",
+				"uni	Create a coroutine."
+			],
+			[
+				"u",
+				"uni	Start a named coroutine (wait)"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"Game",
+				"GameObject"
+			],
+			[
+				"Thr",
+				"ThrowForce"
+			],
+			[
+				"po",
+				"projClone"
+			],
+			[
+				"In",
+				"InstantiateOnStart"
+			],
+			[
+				"I",
+				"InstanciateOnAwake"
+			],
+			[
+				"Insta",
+				"Instantiate"
+			],
+			[
+				"Ran",
+				"RandomInstanciator"
+			],
+			[
+				"tr",
+				"throwForce"
+			],
+			[
+				"pro",
+				"projClone"
+			],
+			[
+				"r",
+				"rigidbody"
+			],
+			[
+				"to",
+				"toFire"
+			],
+			[
+				"S",
+				"Step"
+			],
+			[
+				"rot",
+				"rotCache"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.js",
+			"settings":
+			{
+				"buffer_size": 1276,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/fibonacci.js",
+			"settings":
+			{
+				"buffer_size": 2426,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/start.bat",
+			"settings":
+			{
+				"buffer_size": 29,
+				"line_ending": "Windows",
+				"name": "@echo off"
+			}
+		},
+		{
+			"file": "src/create_tables.sql",
+			"settings":
+			{
+				"buffer_size": 133,
+				"line_ending": "Windows",
+				"name": "CREATE TABLE test ("
+			}
+		}
+	],
+	"build_system": "Packages/User/nodeJS.sublime-build",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: unity-collisionEnter"
+			],
+			[
+				"",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/SublimeDev/projects/nodeJS-test/src/drop_test.sql",
+		"/C/SublimeDev/projects/nodeJS-test/src/auth.js",
+		"/C/SublimeDev/projects/nodeJS-test/src/start.bat",
+		"/C/Users/Micael/AppData/Roaming/Sublime Text 2/Packages/Camaleon/Camaleon.sublime-settings",
+		"/C/SublimeDev/projects/nodeJS-test/src/test.js",
+		"/C/SublimeDev/projects/nodeJS-test/src/fibonacci.js",
+		"/C/SublimeDev/projects/nodeJS-test/src/New Text Document.txt",
+		"/C/Users/Micael/AppData/Roaming/Sublime Text 2/Packages/User/nodeJS-Debug.sublime-build",
+		"/C/SublimeDev/createLinkToAllModules.bat",
+		"/C/SublimeDev/projects/nodeJS-test/New Text Document.txt",
+		"/C/SublimeDev/nodeJS-test/New Text Document.txt",
+		"/C/Users/Micael/AppData/Roaming/Sublime Text 2/Packages/D/D.sublime-build",
+		"/C/UnityDev/projects/8GIF180-TP10/Assets/Game 2 - Jump game/RandomInstanciator.cs",
+		"/C/Users/Micael/AppData/Roaming/Sublime Text 2/Packages/User/unity-startCoroutineNoWait.sublime-snippet",
+		"/C/Users/Micael/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Micael/AppData/Roaming/Sublime Text 2/Packages/User/unity-collisionEnter.sublime-snippet",
+		"/C/Users/Micael/AppData/Roaming/Sublime Text 2/Packages/User/unity-startCoroutineWait.sublime-snippet",
+		"/C/Users/Micael/AppData/Roaming/Sublime Text 2/Packages/Unity3D/UnityC#.tmLanguage",
+		"/C/Users/Micael/AppData/Roaming/Sublime Text 2/Packages/Unity3D Snippets and Completes/GUI-Button.sublime-snippet",
+		"/C/UnityDev/projects/8GIF180-TP10/Assets/Game 2 - Jump game/Scripts/Player.cs",
+		"/C/UnityDev/projects/8GIF180-TP10/Assets/Game 2 - Jump game/ProjNormalCollision.cs",
+		"/C/UnityDev/projects/8GIF180-TP10/Assets/Game 2 - Jump game/Enemy/EnemyAI.cs",
+		"/C/UnityDev/projects/8GIF180-TP10/Assets/Game 2 - Jump game/Scripts/GameControl.cs",
+		"/C/UnityDev/projects/8GIF180-TP10/Assets/Game 2 - Jump game/Scripts/Playermovement.cs",
+		"/C/UnityDev/projects/8GIF180-TP10/Assets/Game 2 - Jump game/MovementWave.cs",
+		"/C/UnityDev/projects/8GIF180-TP10/Assets/Game 2 - Jump game/TimedDestroy.cs",
+		"/C/Users/Micael/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/Default (Windows).sublime-keymap",
+		"/C/Users/Micael/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Micael/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Micael/Documents/NetBeansProjects/NetBeansProject.sublime-project",
+		"/C/Users/Micael/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Micael/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"source.",
+			"source",
+			"scaledRot",
+			"header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.js",
+					"settings":
+					{
+						"buffer_size": 1276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								375,
+								374
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/fibonacci.js",
+					"settings":
+					{
+						"buffer_size": 2426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2079,
+								2079
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 912.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/start.bat",
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "@echo off",
+							"syntax": "Packages/Batch File/Batch File.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/create_tables.sql",
+					"settings":
+					{
+						"buffer_size": 133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"auto_name": "CREATE TABLE test (",
+							"syntax": "Packages/SQL/SQL.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 337.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true
+}
